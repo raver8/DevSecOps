@@ -2,22 +2,6 @@
 
 A deep dive into integrating security practices into Azure Kubernetes Service workflows.
 
-## Key Takeaways
-
-- Shift-Left Security: Integrate security early in the development lifecycle.
-- Automate Compliance: Use tools to automate security checks and reporting.
-- Continuous Monitoring: Continuously monitor and improve security posture.
-
-DevSecOps on AKS ensures security and compliance. It automates processes and improves continuously.
-
-## Microsoft Azure & Compliance-as-Code Links
-
-- [Microsoft Azure for Financial Services](https://learn.microsoft.com/en-us/industry/financial-services/microsoft-azure-fsi)
-- [Microsoft's Quantum-Resistant Cryptography](https://techcommunity.microsoft.com/blog/microsoft-security-blog/microsofts-quantum-resistant-cryptography-is-here/4238780)
-- [Azure Kubernetes Service](https://azure.microsoft.com/en-us/products/kubernetes-service/?msockid=3568ca0299606f9b1545df03981b6ed7)
-- [What is AKS?](https://learn.microsoft.com/en-us/azure/aks/what-is-aks)
-- [NIST OSCAL Resources](https://pages.nist.gov/OSCAL/resources/concepts/terminology/)
-
 ## Agile Principles
 
 The Agile Manifesto's core principles still resonate. These promote adaptive planning and continuous improvement.
@@ -121,6 +105,22 @@ Security is integrated into every phase. From planning to operation, it's a cont
 
 Azure is preparing for post-quantum threats. It is adopting new cryptographic standards.
 
+
+## Key Takeaways
+
+- Shift-Left Security: Integrate security early in the development lifecycle.
+- Automate Compliance: Use tools to automate security checks and reporting.
+- Continuous Monitoring: Continuously monitor and improve security posture.
+
+DevSecOps on AKS ensures security and compliance. It automates processes and improves continuously.
+
+## Microsoft Azure & Compliance-as-Code Links
+
+- [Microsoft Azure for Financial Services](https://learn.microsoft.com/en-us/industry/financial-services/microsoft-azure-fsi)
+- [Microsoft's Quantum-Resistant Cryptography](https://techcommunity.microsoft.com/blog/microsoft-security-blog/microsofts-quantum-resistant-cryptography-is-here/4238780)
+- [Azure Kubernetes Service](https://azure.microsoft.com/en-us/products/kubernetes-service/?msockid=3568ca0299606f9b1545df03981b6ed7)
+- [What is AKS?](https://learn.microsoft.com/en-us/azure/aks/what-is-aks)
+- [NIST OSCAL Resources](https://pages.nist.gov/OSCAL/resources/concepts/terminology/)
 ## Thank You
 
 Formal Thanks to SFSSUG at the Microsoft LATAM Office.
