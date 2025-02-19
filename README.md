@@ -29,11 +29,12 @@ The Agile Manifesto's core principles still resonate. These promote adaptive pla
   - NIST Cybersecurity Framework 2.0
   - AI Risk Management Framework
 - Regulations are mandatory legal requirements.
+  - U.S. HIPAA
   - U.S. FFIEC
   - EU GDPR
   - EU AI ACT
   - EU DORA
-  - U.S. HIPAA
+  
 
 ## Audit vs. Assessment: Key Differences
 
