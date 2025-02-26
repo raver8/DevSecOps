@@ -1,6 +1,6 @@
 # DevSecOps on AKS
 
-A deep dive into integrating security practices into Azure Kubernetes Service workflows.
+A deep dive into integrating security assessments into Azure Kubernetes Service.
 
 ## Agile Principles
 
